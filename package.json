@@ -1,0 +1,9 @@
+{
+  "name": "@apility/async-timer-methods",
+  "version": "1.0.0",
+  "description": "A collection of timer methods wrapped in promises",
+  "main": "src/index.js",
+  "author": "Johan Vaage <jovaage@gmail.com>",
+  "license": "UNLICENSED",
+  "repository": "git@github.com:apility/async-timer-methods.git"
+}
